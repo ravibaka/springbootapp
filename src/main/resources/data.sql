@@ -1,5 +1,5 @@
 insert into customer
-values(10001,'Ranga', 'ranga@gmail.com', 'ACTIVE');
+values(10001,'Manju', 'ranga@gmail.com', 'ACTIVE');
 
 insert into customer
 values(10002,'Ravi', 'ravi@gmail.com', 'REJECTED');

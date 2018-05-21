@@ -1,11 +1,11 @@
 insert into customer
-values(10001,'Manju', 'ranga@gmail.com', 'ACTIVE');
+values(10001,'Manju', 'manju@gmail.com', 'ACTIVE');
 
 insert into customer
 values(10002,'Ravi', 'ravi@gmail.com', 'REJECTED');
 
 insert into customer
-values(10003,'Mahesh', 'mahesh@gmail.com', 'PENDING');
+values(10003,'Suchi', 'suchi@gmail.com', 'PENDING');
 
 insert into customer
-values(10004,'Malli', 'malli@gmail.com', 'REGISTERED');
+values(10004,'Test', 'test@gmail.com', 'REGISTERED');
